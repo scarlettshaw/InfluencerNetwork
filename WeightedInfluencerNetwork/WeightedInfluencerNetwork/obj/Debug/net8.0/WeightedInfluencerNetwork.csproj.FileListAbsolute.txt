@@ -1,0 +1,14 @@
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\bin\Debug\net8.0\WeightedInfluencerNetwork.exe
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\bin\Debug\net8.0\WeightedInfluencerNetwork.deps.json
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\bin\Debug\net8.0\WeightedInfluencerNetwork.runtimeconfig.json
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\bin\Debug\net8.0\WeightedInfluencerNetwork.dll
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\bin\Debug\net8.0\WeightedInfluencerNetwork.pdb
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\obj\Debug\net8.0\WeightedInfluencerNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\obj\Debug\net8.0\WeightedInfluencerNetwork.AssemblyInfoInputs.cache
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\obj\Debug\net8.0\WeightedInfluencerNetwork.AssemblyInfo.cs
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\obj\Debug\net8.0\WeightedInfluencerNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\obj\Debug\net8.0\WeightedInfluencerNetwork.dll
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\obj\Debug\net8.0\refint\WeightedInfluencerNetwork.dll
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\obj\Debug\net8.0\WeightedInfluencerNetwork.pdb
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\obj\Debug\net8.0\WeightedInfluencerNetwork.genruntimeconfig.cache
+C:\Users\Scarz\source\repos\WeightedInfluencerNetwork\WeightedInfluencerNetwork\obj\Debug\net8.0\ref\WeightedInfluencerNetwork.dll
