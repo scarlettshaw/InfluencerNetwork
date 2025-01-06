@@ -1,0 +1,14 @@
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\bin\Debug\net8.0\UnWeightedInfluencerNetwork.exe
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\bin\Debug\net8.0\UnWeightedInfluencerNetwork.deps.json
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\bin\Debug\net8.0\UnWeightedInfluencerNetwork.runtimeconfig.json
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\bin\Debug\net8.0\UnWeightedInfluencerNetwork.dll
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\bin\Debug\net8.0\UnWeightedInfluencerNetwork.pdb
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\obj\Debug\net8.0\UnWeightedInfluencerNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\obj\Debug\net8.0\UnWeightedInfluencerNetwork.AssemblyInfoInputs.cache
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\obj\Debug\net8.0\UnWeightedInfluencerNetwork.AssemblyInfo.cs
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\obj\Debug\net8.0\UnWeightedInfluencerNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\obj\Debug\net8.0\UnWeightedInfluencerNetwork.dll
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\obj\Debug\net8.0\refint\UnWeightedInfluencerNetwork.dll
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\obj\Debug\net8.0\UnWeightedInfluencerNetwork.pdb
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\obj\Debug\net8.0\UnWeightedInfluencerNetwork.genruntimeconfig.cache
+C:\Users\Scarz\source\repos\UnWeightedInfluencerNetwork\UnWeightedInfluencerNetwork\obj\Debug\net8.0\ref\UnWeightedInfluencerNetwork.dll
